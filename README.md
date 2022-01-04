@@ -168,7 +168,7 @@ The font colour turns green.
 
 As you work through the media queries for each page, be mindful of the specificity and scope of your selectors.
 
-You should have a minimum of two media queries, for a total of three 'views' or layouts. You will *need to choose* which breakpoints (i.e. which minimum widths) achieve the look, feel, and functionality of the website in your provided screenshots. 
+You should have a minimum of two media queries, for a total of three 'views' or layouts. You will *need to choose* which breakpoints (i.e., which minimum widths) achieve the look, feel, and functionality of the website in your provided screenshots. 
 
 When defining padding and margins, do not fixate on a pixel-perfect measurement. Instead, focus on making sure that the layout is fluid and looks good at any viewport width. Do this by utilising relative units and flexbox properties such as `justify-content` and `align-items`.
 
