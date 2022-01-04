@@ -32,7 +32,7 @@ Although you have been given a number of image files to work with, they are not 
 2. Ensuring that no image exceeds 250 kilobytes in size; and
 3. Creating a small, medium, and large version of each background image for each of your three layouts. 
 
-In order to do this, you can use an application such as Adobe Photoshop CC or Squoosh[https://squoosh.app/].
+In order to do this, you can use an application such as Adobe Photoshop CC or [Squoosh](https://squoosh.app/){:target="_blank"}.
 
 >> **Note**: You do not need to create three versions of *every* image on your page, only your background images.
 
