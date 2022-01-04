@@ -131,9 +131,9 @@ Scholarships &amp; Bursaries
 
 <!-- Box In Lower Banner -->
 
-BUILDING STRONGER COMMUNITIES TOGETHER<
+BUILDING STRONGER COMMUNITIES TOGETHER
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusantium repellendus accusamus obcaecati magni distinctio rem, a labore veritatis numquam maiores porro voluptas earum soluta est cumque delectus sint, dolor sapiente.
 
-Learn about our community investments>
+Learn about our community investments
 ```
