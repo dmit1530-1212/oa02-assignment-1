@@ -58,7 +58,7 @@ Learn More About Today's Power
 
 BY THE NUMBERS
 
-How we're making a difference.
+How we are making a difference.
 
 33% less carbon since 2005
 
@@ -69,7 +69,7 @@ We're well ahead of our national goal of a 30% reduction by 2030.
 Our Province has one of the highest integrations of wind in North America.
 
 Up to 140 batteries in homes across the province
-We're exploring innovative technology like battery storage to help bring more clean energy to the grid
+We are exploring innovative technology like battery storage to help bring more clean energy to the grid
 61% clean energy by 2022
 
 We are on our way to a greener future for our province.
