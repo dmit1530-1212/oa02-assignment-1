@@ -1,4 +1,4 @@
-# DMIT 1530: Assignment 01
+# DMIT 1530: Assignment #1
 
 **Weight**: 15% of your final mark
 
