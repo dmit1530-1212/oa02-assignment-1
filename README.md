@@ -90,9 +90,7 @@ The following colours are used throughout the website:
 For the semi-transparent box near the bottom on the community page, try using the following value:
 
 ```css
-
-	rgba(255, 255, 255, 0.85);
-
+  rgba(255, 255, 255, 0.85);
 ```
 
 ### Universal & Typographic Styles
@@ -100,7 +98,7 @@ Every typographic element on the webpages uses:
 
 ```css
 {
-	font-family: Calibri, sans-serif;
+  font-family: Calibri, sans-serif;
 }
 ```
 
