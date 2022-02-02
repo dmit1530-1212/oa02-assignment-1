@@ -1,5 +1,4 @@
 # Website Content
-
 In this document, you will find all of the content you need for your website. Simply copy and paste it into the '<body>` of your website and start semantically marking it up.
 
 
@@ -62,7 +61,7 @@ How we are making a difference.
 
 33% less carbon since 2005
 
-We're well ahead of our national goal of a 30% reduction by 2030.
+We are well ahead of our national goal of a 30% reduction by 2030.
 
 17% wind energy
 
