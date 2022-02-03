@@ -71,7 +71,9 @@ Both of these containers will have a faux button (i.e. an anchor element styled 
 ---
 
 ### Validation
-Your HTML must **validate without any errors**; however, a warning that your website uses filler text rather than English is acceptable.
+Your HTML must **validate without any errors**; however, a warning that your website uses filler text rather than English is acceptable. Use [W3C Markup Validation Service](https://validator.w3.org/).
+
+Your CSS must **validate without any errors**. Use [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
 
 ---
 
@@ -103,7 +105,7 @@ Every typographic element on the webpages uses:
 ```
 
 #### Headings
-The following values are provided to you in pixels; however, you must use relative units (ex. em, rem) in order to receive a mark.
+The following values are provided to you in pixels; however, you must use relative units (ex. em, **rem**) in order to receive a mark.
 
 * h1: 36px
 * h2: 30px
@@ -145,7 +147,7 @@ You should have a minimum of two media queries, for a total of three 'views' or 
 When defining padding and margins, do not fixate on a pixel-perfect measurement. Instead, focus on making sure that the layout is fluid and looks good at any viewport width. Do this by utilising relative units and flexbox properties such as `justify-content` and `align-items`.
 
 #### A Note on Your Fixed-Width Layouts
-At your largest breakpoint or view, your layout should switch to a fixed-width centred layout.
+At your largest breakpoint or view, your layout should switch to a fixed-width centered layout.
 
 Even when you switch to a fixed-width layout, your background colours and background images should span the entire width of the viewport. 
 
