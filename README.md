@@ -73,7 +73,7 @@ Both of these containers will have a faux button (i.e. an anchor element styled 
 ### Validation
 Your HTML must **validate without any errors**; however, a warning that your website uses filler text rather than English is acceptable. Use [W3C Markup Validation Service](https://validator.w3.org/).
 
-Your CSS must **validate without any errors**. Use [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/).
+Your CSS must **validate without any errors**. Use [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/). If you have any errors and/or warnings, please confirm with your instructor if any of these are acceptable.
 
 ---
 
