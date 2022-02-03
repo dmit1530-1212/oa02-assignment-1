@@ -1,6 +1,8 @@
 # Website Content
 In this document, you will find all of the content you need for your website. Simply copy and paste it into the '<body>` of your website and start semantically marking it up.
 
+***NOTE***: _Some of the text may differ from the provided screenshots, therefore use the text from this document._
+
 
 ## navigation
 
