@@ -39,7 +39,7 @@ In order to do this, you can use an application such as Adobe Photoshop CC or Sq
 ---
 
 ## HTML
-Before adding any styles, you must mark-up all of your content. Begin by filling in the meta information in the `<head>` of each HTML document; remember to give a unique `<title>` and description for each page. Then, start building your `<body>` by pasting all of the content from the **website-content markdown file** into your HTML files, semantically marking them up, and adding appropriate sectioning elements.
+Before adding any styles, you must mark-up all of your content. Begin by filling in the meta information in the `<head>` of each HTML document; remember to give a unique, semantic `<title>` and description for each page. Then, start building your `<body>` by pasting all of the content from the **website-content markdown file** into your HTML files, semantically marking them up, and adding appropriate sectioning elements.
 
 
 ### Navigation & Footer
@@ -68,7 +68,7 @@ Finally, make sure that the XYZ Power heading links back to the index page.
 ### index
 The main area of your index page will have two containers. They will switch from a single column layout in the smallest view to a two-column layout in your first media query. 
 
-Both of these containers will have a faux button (i.e. an anchor element styled to look like a button) with a hover state. They will not link to anywhere, but have a placeholder href value.
+Both of these containers will have a faux button (i.e., an anchor element styled to look like a button) with a hover state. They will not link to anywhere, but have a placeholder `href` value.
 
 ---
 
