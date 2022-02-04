@@ -155,3 +155,6 @@ Even when you switch to a fixed-width layout, your background colours and backgr
 
 #### A Hint About Differentiating Page Layouts
 If you find that you are having difficulty differentiating between each page with a single stylesheet, try adding a unique class to a high-level element and using this class in your selector statements. 
+
+## Submission
+Commit all your work (minimum of **three (3) commits** to GitHub), publish your project to Netlify and supply the netlify link to Moodle.
