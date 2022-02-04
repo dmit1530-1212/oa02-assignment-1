@@ -2,6 +2,8 @@
 
 **Weight**: 15% of your final mark
 
+**Due Date**: Refer to Moodle
+
 The due date for this assignment is available on your GitHub Classroom assignment, as well as on Moodle. 
 
 For this assignment, you will build a **three page** website with a **responsive layout**.
@@ -27,7 +29,7 @@ The following instructions will help you work through the image preparation, HTM
 Although you have been given a number of image files to work with, they are not web-ready. Before you can use them in your website, you must prepare them by:
 
 1. Converting them to a newer image format, such as .webp;
-2. Ensuring that no image exceeds 250 kilobytes in size; and
+2. Ensuring that no image exceeds **250 kilobytes** in size; and
 3. Creating a small, medium, and large version of each background image for each of your three layouts. 
 
 In order to do this, you can use an application such as Adobe Photoshop CC or Squoosh[https://squoosh.app/].
@@ -78,7 +80,7 @@ Your CSS must **validate without any errors**. Use [W3C CSS Validation Service](
 ---
 
 ## CSS
-Working within a single stylesheet, `styles.css`, you will utilise flexbox and flexbox properties to create unique layouts for each of your pages. 
+Working within a single stylesheet, `styles.css`, you will utilize flexbox and flexbox properties to create unique layouts for each of your pages. 
 
 ### Colour Palette
 The following colours are used throughout the website:
@@ -100,7 +102,7 @@ Every typographic element on the webpages uses:
 
 ```css
 {
-  font-family: Calibri, sans-serif;
+  font-family: Calibri, Arial, sans-serif;
 }
 ```
 
